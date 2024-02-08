@@ -1,9 +1,10 @@
 # starlink
 <html>
   <head>
-    <h1>this is first Repo <br> </h1>
+    <h1>STARLINK <br> </h1>
     </head>
-  <body>this is first repo in git hub<br>
-     and first program of html    
+  <body>This is my firts repository which is about the stars<br>
+     and first program of html <br>
+   sTARS-  A natural luminous body visible in the sky especially at night 
     </body>
     </html>
